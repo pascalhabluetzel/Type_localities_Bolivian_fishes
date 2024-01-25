@@ -16,5 +16,13 @@ The type locality of _Apistogramma luelingi_ Kullander 1976 is located in a "Kle
 
 # References
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
+
+Kullander SO (1976) Apistogramma luelingi sp. nov., a new cichlid fish from Bolivia (Teleostei: Cichlidae). Bonner Zoologische Beiträge 27(3-4):258-266.
+
 Kullander SO (1982) Cichlid Fishes from the La Plata Basin. Part IV. Review of the Apistogramma Species, with Description of a New Species (Teleostei, Cichlidae). Zoologica Scripta 11(4):307-313.
+
+Kullander SO (1983) A revision of the South American cichlid genus Cichlasoma (Teleostei: Cichlidae). naturhistoriska Riksmuseet, Stockholm. I-IV + 1-296, Pls. 1-14.
+
+Meinken H (1969) Wissenschaftliche Ergebnisse der Peru-Bolivien-Expedition Dr. K. H. Lüling 1966. Rivulichthys luelingi nov. spec., eine Zahnkarpfen-Neuheit aus Ostbolivien (Pisces, Teleostei, Rivulinae). Bonner Zoologische Beiträge 20 (4):423-428. 
+
 Walschaerts L (1987) Catalogue des types de poissons recents de l'Institute Royal des Sciences Naturelles Belgique. Documents de Travail N°40. pp. 1-66.
