@@ -22,7 +22,7 @@ Kullander SO (1976) Apistogramma luelingi sp. nov., a new cichlid fish from Boli
 
 Kullander SO (1982) Cichlid Fishes from the La Plata Basin. Part IV. Review of the Apistogramma Species, with Description of a New Species (Teleostei, Cichlidae). Zoologica Scripta 11(4):307-313.
 
-Kullander SO (1983) A revision of the South American cichlid genus Cichlasoma (Teleostei: Cichlidae). naturhistoriska Riksmuseet, Stockholm. I-IV + 1-296, Pls. 1-14.
+Kullander SO (1983) A revision of the South American cichlid genus Cichlasoma (Teleostei: Cichlidae). Naturhistoriska Riksmuseet, Stockholm. I-IV + 1-296, Pls. 1-14.
 
 Meinken H (1969) Wissenschaftliche Ergebnisse der Peru-Bolivien-Expedition Dr. K. H. Lüling 1966. Rivulichthys luelingi nov. spec., eine Zahnkarpfen-Neuheit aus Ostbolivien (Pisces, Teleostei, Rivulinae). Bonner Zoologische Beiträge 20 (4):423-428. 
 
