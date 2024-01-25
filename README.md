@@ -13,6 +13,7 @@ Kullander describes the type locality of _Cichlasoma boliviense_ as follows: "Bo
 
 The type locality of _Apistogramma luelingi_ Kullander 1976 is located in a "Kleine Quebrada unterhalb Todos Santos (Bolivien)". Todos Santos is a hamlet about 4 km (as the crow flies) from Puerto Aurora at the río Chaparé. It is depicted in an maps in Kullander (1976) and Meinken (1969). It is unclear which quebrada is meant and whether 'unterhalb' (below) means 'to the south' or 'downstream' (río Chapare flows to the north). The hand-drawn map by the collector K.H. Lüling printed in the Kullander (1976) suggests it is to the south, but the more detailed map in Meinken (1969, also drawn by Lüling) indicates locations to the north (downstream) as 'unterhalb Todos Santos'.
 
+The type locality description for _Apistogramma rubrolineata_ has an unconventional format of the coordinates. It literaly reads 11°20'083'' S, 67°44'576'' W, but the seconds should not exceed 59. It was likely a decimal error. 11°20'8.3''S and 67°44'57.6'' W points to a location in the forest a few meters from the vegetated river bank about 1.3 km upstream of Puerto Cardenas. 11°20.083''S and 67°44.576'' W points to a location that can easily reached by foot from Puerto Cardenas. "Der Typusfundort lag an einem lehmigen Steilufer mit ins Wasser wachsenden Büschen" matches this location.
 
 # References
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
