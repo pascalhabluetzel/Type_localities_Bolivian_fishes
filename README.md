@@ -15,6 +15,8 @@ The type locality of _Apistogramma luelingi_ Kullander 1976 is located in a "Kle
 
 The type locality description for _Apistogramma rubrolineata_ has an unconventional format of the coordinates. It literaly reads 11°20'083'' S, 67°44'576'' W, but the seconds should not exceed 59. It was likely a decimal error. 11°20'8.3''S and 67°44'57.6'' W points to a location in the forest a few meters from the vegetated river bank about 1.3 km upstream of Puerto Cardenas. 11°20.083''S and 67°44.576'' W points to a location that can easily reached by foot from Puerto Cardenas. "Der Typusfundort lag an einem lehmigen Steilufer mit ins Wasser wachsenden Büschen" matches this location.
 
+_Crenicichla saxatilis_ var. _semicincta_. Little information available. Collections may be done by Staudinger (Avila-Pires 1995). Puerto San Mateo probably incorrectly georeferenced by Dirksen and de la Riva (Graellsia 1999) as 17°42’/64°47’. Río San Mateo merges with río Espiritu Santo in Villa Tunari to form the río Chaparé. Collections may have been done at a port of the río San Mateo.
+
 # References
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
 
