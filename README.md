@@ -20,13 +20,13 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 # References
 Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoologische Verhandelingen Leiden 299:1-706.
 
-Berlesch 1901............
+Berlesch, H Graf von (1901) Mitteilungen über die von den Gebrüdern G. und O. Garlepp in Bolivia gesammelten Vögel und Beschreibungen neuer Arten. Journal für Ornithologie 49:81–99.
 
 Bond J & Meyer de Schauensee R (1942) The Birds of Bolivia. Part I. Proceedings of the Academy of Natural Sciences of Philadelphia 94:307-391.
 
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
 
-Conover 1943.................
+Conover B (1943) A study of the Torrent Ducks. Zoological Series of the Field Museum of Natural History 24:345–356.
 
 Dirksen L & De la Riva (1999) The lizards and amphisbaenians of Bolivia (Reptilia, Squamata): Checklist, localties, and bibliography. Graellsia 55:199-215.
 
@@ -46,7 +46,7 @@ Mlíkovský J (2009) Types of birds in the collections of the Museum and Institu
 
 Niethammer G (1953) Zur Vogelwelt Boliviens. Bonner Zoologische Beiträge 3-4:195-303.
 
-Staudinger O (1892) Neue Papilio-Formen aus Südamerika..........
+Staudinger O (1892) Neue Papilio-Formen aus Südamerika. Deutsche Entomologische Zeitschrift herausgegeben von der Gesellschaft Iris zu Dresden 5(2):427-428.
 
 Steindachner F (1892) Über einige neue und seltene Fischarten aus der ichthyologischen Sammlung des K. K. Naturhistorischen Hofmuseums. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Classe. v. 59 (1. Abth.): 357-384, Pls. 1-6.
 
