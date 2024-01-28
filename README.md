@@ -19,7 +19,7 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 San Mateo has been previously georeferenced as "Rio San Mateo where Todos Santos is situated" (Conover 1943)
 "the region is in the tropical forested Andean foothills at 500-1000 m a.s.l." and "Puerto de San Mateo was near an old road, which in the late 1800s was one of the few passageways between the Bolivian highlands and the lowlands" (Duellmann & Köhler 2005).
 "a locality visited by d'Orbigny, a few miles east of Totora" (Bond & Meyer de Schauensee 1942) d'Orbigny indeed describes his journey along the río San Mateo in detail, but Totara is not near the Yuracares province
-Niethammer (1953) located the Yungas of San Mateo near Kara Huasi about halfway between Santa Cruz.
+Garlepp's San Mateo has been incorrectly located as "a locality visited by d'Orbigny, a few miles east of Totora" (Bond & Meyer de Schauensee 1942) near Kara Huasi about halfway between Santa Cruz (Niethammer 1953) and subsequently been georeferenced as 17.70°S, 64.70°W (Mlíkovský 2009) and 17°42’/64°47’ (Dirksen & De la Riva 1999). There is a hamplet with the name San Mateo in that area and a river with the same name. But it is far from the Chaparé province, not at the foothills of the Andes and the river is not a tributary of the río Chaparé. Instead, it flows río Sajta which itself merges with the río Ichilo at Puerto Villarroel.
 as 17.70°S, 64.70°W (Mlíkovský 2009)
 17°42’/64°47’ (Dirksen & De la Riva 1999)
 16°19'40"S; 59°36'52"W (Marsola & Brescovit 2018) points to a different San Mateo in the Velasco province in the department of Santa Cruz.
@@ -54,7 +54,7 @@ Meinken H (1969) Wissenschaftliche Ergebnisse der Peru-Bolivien-Expedition Dr. K
 
 Mlíkovský J (2009) Types of birds in the collections of the Museum and Institute of Zoology, Polish Academy of Sciences, Warszawa, Poland. Part 3: South American birds. Journal of the National Museum (Prague), Natural History Series 178(5):17-180.
 
-Niethammer G (1953) Zur Vogelwelt Boliviens. Bonner Zoologische Beiträge 3-4:195-.....................
+Niethammer G (1953) Zur Vogelwelt Boliviens. Bonner Zoologische Beiträge 3-4:195-303.
 
 Staudinger O (1892) Neue Papilio-Formen aus Südamerika..........
 
