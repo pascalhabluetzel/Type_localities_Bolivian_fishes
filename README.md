@@ -19,20 +19,24 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 San Mateo has been previously georeferenced as "Rio San Mateo where Todos Santos is situated" (Conover 1943)
 "the region is in the tropical forested Andean foothills at 500-1000 m a.s.l." and "Puerto de San Mateo was near an old road, which in the late 1800s was one of the few passageways between the Bolivian highlands and the lowlands" (Duellmann & Köhler 2005).
 "a locality visited by d'Orbigny, a few miles east of Totora" (Bond & Meyer de Schauensee 1942) d'Orbigny indeed describes his journey along the río San Mateo in detail, but Totara is not near the Yuracares province
+Niethammer (1953) located the Yungas of San Mateo near Kara Huasi about halfway between Santa Cruz.
 as 17.70°S, 64.70°W (Mlíkovský 2009)
 17°42’/64°47’ (Dirksen & De la Riva 1999)
 16°19'40"S; 59°36'52"W (Marsola & Brescovit 2018) points to a different San Mateo in the Velasco province in the department of Santa Cruz.
 The name San Mateo might indicate a relationship with the río San Mateo which merges with the río Espiritu Santo at Villa Tunary to form the río Chaparé. There is also a hamlet just south of Villa Tunari that is called San Mateo. Cochabamba, Provincia Yuracares, upper Rio Chapare, Puerto San Mateo: 1 ♀, NMW 20424, 1892, Staudinger
 A second possibility is another hamlet of San Mateo at the border between the departments Cochabamba and Santa Cruz. There river there is also called río San Mateo. It, however, is a tributary of the río Sajta which itself merges with the río Ichilo at Puerto Villarroel. The Yuracares province does not exist anymore. It became the Chaparé province in 1854. Little information available. Specimens were possibly sourced through Staudinger (Avila-Pires 1995). Puerto San Mateo probably incorrectly georeferenced by Dirksen and de la Riva (Graellsia 1999) as 17°42’/64°47’. Río San Mateo merges with río Espiritu Santo in Villa Tunari to form the río Chaparé. Collections may have been done at a port of the río San Mateo. Garlepp brothers likely did the collections and provided specimens to Staudinger. "Anton Hermann Fassl (†1922) was a professional collector, and Otto Garlepp was his partner on his first Bolivian trip (Taut 1923)" (Bálint 2021 Spixiana). Information may also be found in Niethammer (1972. Otto Garlepp zum Gedächtnis. Vogelkundliche Berichte aus Niedersachsen 4: 59-64).
+Puerto San Mateo is located in the Chaparé province in the río Chaparé drainage at the foothills of the Andes at about 300 m a.s.l.
 
 # References
 Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoologische Verhandelingen Leiden 299:1-706.
 
-Berlesch 1901
+Berlesch 1901............
 
 Bond J & Meyer de Schauensee R (1942) The Birds of Bolivia. Part I. Proceedings of the Academy of Natural Sciences of Philadelphia 94:307-391.
 
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
+
+Conover 1943.................
 
 Dirksen L & De la Riva (1999) The lizards and amphisbaenians of Bolivia (Reptilia, Squamata): Checklist, localties, and bibliography. Graellsia 55:199-215.
 
@@ -50,10 +54,12 @@ Meinken H (1969) Wissenschaftliche Ergebnisse der Peru-Bolivien-Expedition Dr. K
 
 Mlíkovský J (2009) Types of birds in the collections of the Museum and Institute of Zoology, Polish Academy of Sciences, Warszawa, Poland. Part 3: South American birds. Journal of the National Museum (Prague), Natural History Series 178(5):17-180.
 
-Staudinger O (1892) Neue Papilio-Formen aus Südamerika
+Niethammer G (1953) Zur Vogelwelt Boliviens. Bonner Zoologische Beiträge 3-4:195-.....................
+
+Staudinger O (1892) Neue Papilio-Formen aus Südamerika..........
 
 Steindachner F (1892) Über einige neue und seltene Fischarten aus der ichthyologischen Sammlung des K. K. Naturhistorischen Hofmuseums. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Classe. v. 59 (1. Abth.): 357-384, Pls. 1-6.
 
-Steindachner F (1892) Über zwei noch unbeschrieben Nototrema-Arten aus Ecuador und Bolivia
+Steindachner F (1892) Über zwei noch unbeschrieben Nototrema-Arten aus Ecuador und Bolivia..........
 
 Walschaerts L (1987) Catalogue des types de poissons recents de l'Institute Royal des Sciences Naturelles Belgique. Documents de Travail N°40. pp. 1-66.
