@@ -15,16 +15,28 @@ The type locality of _Apistogramma luelingi_ Kullander 1976 is located in a "Kle
 
 The type locality description for _Apistogramma rubrolineata_ has an unconventional format of the coordinates. It literaly reads 11°20'083'' S, 67°44'576'' W, but the seconds should not exceed 59. It was likely a decimal error. 11°20'8.3''S and 67°44'57.6'' W points to a location in the forest a few meters from the vegetated river bank about 1.3 km upstream of Puerto Cardenas. 11°20.083''S and 67°44.576'' W points to a location that can easily reached by foot from Puerto Cardenas. "Der Typusfundort lag an einem lehmigen Steilufer mit ins Wasser wachsenden Büschen" matches this location.
 
-_Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based on specimens collected in "Bolivia, Provinz Yuracares, im oberen Chaparé bei Puerto de San Mateo" (Steindachner 1892). There is no geographic location that can be unabiguously identified as Puerto de San Mateo. Yuracares is nowadays called Chapare and belongs to the department of Cochabamba. Puerto refers to a place where goods could be loaded on ships, meaning that the river should be navigable both up and downstream. The name 'San Mateo', 'Puerto San Mateo' or 'Puerto de San Mateo' appear in the taxonomic literature as sampling localities for birds (e.g. Berlepsch 1901), arthropods (e.g. Simon 1892, Hering 1925, Lourenço & Leguin 2011), reptiles (e.g. Avila-Pires 1995) and amphibians (e.g. Steindachner 1892). The collector of the holotype of Saxatilia semicincta cannot be identified based on a literature search, but it was very likely Gustav Garlepp. Birds have reportedly been collected by Garlepp in San Mateo in July and August 1891 (Berlepsch 1901, Lourenço & Leguin 2011). A specimen of Kentropyx altamazonica Cope 1876 has been obtained by the Natural History Museum of Vienna from Otto Straudinger (Avila-Pires 1995), who is known to have received collections from Garlepp (Anonymous 'S.' 1900). Some arthropods from San Mateo have also been reported to have been collected by Garlepp (Simon 1892, Lourenço & Leguin 2011). Berlepsch (1901), who corresponded with Garlepp, describes the location of San Mateo as 'im heissen Flachlande am Ausläufer der Yungas von Cochabamba', 'am Fusse der Anden', 'im heissen Tiefland der Yungas-Region'. San Mateo has been previously georeferenced as "a few miles east of , as 17°42’/64°47’ (Dirksen & De la Riva 1999).
+_Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based on specimens collected in "Bolivia, Provinz Yuracares, im oberen Chaparé bei Puerto de San Mateo" (Steindachner 1892). There is no geographic location that can be unabiguously identified as Puerto de San Mateo. Yuracares is nowadays called Chapare and belongs to the department of Cochabamba. Puerto refers to a place where goods could be loaded on ships, meaning that the river should be navigable both up and downstream. The name 'San Mateo', 'Puerto San Mateo' or 'Puerto de San Mateo' appear in the taxonomic literature as sampling localities for birds (e.g. Berlepsch 1901), arthropods (e.g. Simon 1892, Staudinger 1892, Hering 1925, Lourenço & Leguin 2011, Marsola & Brescovit 2018), reptiles (e.g. Avila-Pires 1995) and amphibians (e.g. Steindachner 1892). The collector of the holotype of _Saxatilia semicincta_ cannot be identified directly based on a literature search, but it was very likely Gustav Garlepp. Birds have reportedly been collected by Garlepp in San Mateo in July and August 1891 (Berlepsch 1901). A specimen of Kentropyx altamazonica Cope 1876 has been obtained by the Natural History Museum of Vienna from Otto Straudinger (Avila-Pires 1995), who is known to have received collections from Garlepp (Anonymous 'S.' 1900). Some arthropods from San Mateo have also been reported to have been collected by Garlepp (Simon 1892, Staudinger 1892, Lourenço & Leguin 2011). Berlepsch (1901), who corresponded with Garlepp, describes the location of San Mateo as 'im heissen Flachlande am Ausläufer der Yungas von Cochabamba', 'am Fusse der Anden', 'im heissen Tiefland der Yungas-Region'. Staudinger, who also corresponded with Garlepp also provides more details: "San Mateo am Rio Juntas (Chaparé) in Bolivien (etwa 300 Meter hoch)" (Staudinger 1892).
+San Mateo has been previously georeferenced as "Rio San Mateo where Todos Santos is situated" (Conover 1943)
+"the region is in the tropical forested Andean foothills at 500-1000 m a.s.l." and "Puerto de San Mateo was near an old road, which in the late 1800s was one of the few passageways between the Bolivian highlands and the lowlands" (Duellmann & Köhler 2005).
+"a locality visited by d'Orbigny, a few miles east of Totora" (Bond & Meyer de Schauensee 1942) d'Orbigny indeed describes his journey along the río San Mateo in detail, but Totara is not near the Yuracares province
+as 17.70°S, 64.70°W (Mlíkovský 2009)
+17°42’/64°47’ (Dirksen & De la Riva 1999)
+16°19'40"S; 59°36'52"W (Marsola & Brescovit 2018) points to a different San Mateo in the Velasco province in the department of Santa Cruz.
 The name San Mateo might indicate a relationship with the río San Mateo which merges with the río Espiritu Santo at Villa Tunary to form the río Chaparé. There is also a hamlet just south of Villa Tunari that is called San Mateo. Cochabamba, Provincia Yuracares, upper Rio Chapare, Puerto San Mateo: 1 ♀, NMW 20424, 1892, Staudinger
 A second possibility is another hamlet of San Mateo at the border between the departments Cochabamba and Santa Cruz. There river there is also called río San Mateo. It, however, is a tributary of the río Sajta which itself merges with the río Ichilo at Puerto Villarroel. The Yuracares province does not exist anymore. It became the Chaparé province in 1854. Little information available. Specimens were possibly sourced through Staudinger (Avila-Pires 1995). Puerto San Mateo probably incorrectly georeferenced by Dirksen and de la Riva (Graellsia 1999) as 17°42’/64°47’. Río San Mateo merges with río Espiritu Santo in Villa Tunari to form the río Chaparé. Collections may have been done at a port of the río San Mateo. Garlepp brothers likely did the collections and provided specimens to Staudinger. "Anton Hermann Fassl (†1922) was a professional collector, and Otto Garlepp was his partner on his first Bolivian trip (Taut 1923)" (Bálint 2021 Spixiana). Information may also be found in Niethammer (1972. Otto Garlepp zum Gedächtnis. Vogelkundliche Berichte aus Niedersachsen 4: 59-64).
 
 # References
 Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoologische Verhandelingen Leiden 299:1-706.
 
+Berlesch 1901
+
+Bond J & Meyer de Schauensee R (1942) The Birds of Bolivia. Part I. Proceedings of the Academy of Natural Sciences of Philadelphia 94:307-391.
+
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
 
 Dirksen L & De la Riva (1999) The lizards and amphisbaenians of Bolivia (Reptilia, Squamata): Checklist, localties, and bibliography. Graellsia 55:199-215.
+
+Duellman WE & Köhler J (2005) New specie of marupial frog (Hylidae: Hemiphractinae: Gastrotheca) from the Yungas of Bolivia. Journal of Herpetology 39(1):91-100.
 
 Kullander SO (1976) Apistogramma luelingi sp. nov., a new cichlid fish from Bolivia (Teleostei: Cichlidae). Bonner Zoologische Beiträge 27(3-4):258-266.
 
@@ -32,8 +44,16 @@ Kullander SO (1982) Cichlid Fishes from the La Plata Basin. Part IV. Review of t
 
 Kullander SO (1983) A revision of the South American cichlid genus Cichlasoma (Teleostei: Cichlidae). Naturhistoriska Riksmuseet, Stockholm. I-IV + 1-296, Pls. 1-14.
 
+Marsola A & Brescovit AD (2018) The taxonomy of the American Ariadna Audouin (Araneae: Synspermiata: Segestriidae). Zootaxa 4400(1):1-114
+
 Meinken H (1969) Wissenschaftliche Ergebnisse der Peru-Bolivien-Expedition Dr. K. H. Lüling 1966. Rivulichthys luelingi nov. spec., eine Zahnkarpfen-Neuheit aus Ostbolivien (Pisces, Teleostei, Rivulinae). Bonner Zoologische Beiträge 20 (4):423-428. 
 
+Mlíkovský J (2009) Types of birds in the collections of the Museum and Institute of Zoology, Polish Academy of Sciences, Warszawa, Poland. Part 3: South American birds. Journal of the National Museum (Prague), Natural History Series 178(5):17-180.
+
+Staudinger O (1892) Neue Papilio-Formen aus Südamerika
+
 Steindachner F (1892) Über einige neue und seltene Fischarten aus der ichthyologischen Sammlung des K. K. Naturhistorischen Hofmuseums. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Classe. v. 59 (1. Abth.): 357-384, Pls. 1-6.
+
+Steindachner F (1892) Über zwei noch unbeschrieben Nototrema-Arten aus Ecuador und Bolivia
 
 Walschaerts L (1987) Catalogue des types de poissons recents de l'Institute Royal des Sciences Naturelles Belgique. Documents de Travail N°40. pp. 1-66.
