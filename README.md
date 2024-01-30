@@ -3,7 +3,7 @@ This is a list of type localities of all nominal taxa of fishes within the borde
 
 Many type specimens of Bolivian fish species have been deposited in foreign museum collections, are in bad state, or both. Topotypes would greatly facilitate taxonomic research of Bolivian fishes. A list of type localities is a critical first step to enable the collection of such topotypes.
 
-Progress: currently 52 % georeferenced (of > 200 type localities)
+Progress: currently 55 % georeferenced (of > 200 type localities)
 
 # Methodology
 I consider all nominal species (i.e. including synonymized names). For georeferencing, I follow Chapman AD & Wieczorek JR (2020). I include type localities with uncertain reference to Bolivia (e.g. 18th century descriptions of _Orestias_ species with 'Lake Titicaca' as type locality).
