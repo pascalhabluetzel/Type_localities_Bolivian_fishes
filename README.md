@@ -23,7 +23,11 @@ The río Popoi is the type locality of several fish species collected during the
 
 Todos Santos of the Carriker expedition: from 31 July 1937 - 13. August 1937. Some exploration to the neighbourhood, including crossing the river and following a trail 10 km to the río Chimoré (Carriker 1937). Todos Santos is different from Todos Santos viejo. Boca Chaparé is two days from Todos Santos. At Boca de Chaparé from 16 - 31 of August 1937. Several trips to the nearby location, including an oxbow lake 2 miles by boat and 1.5 miles by foot up the río Chimoré. Fish were wrapped on the 25th by Mike. Entry for August 28: "we went seining in river for fish, in the shallow around the big sand bars at mouth of river. Got quite a few species different from Todos Santos". 7 days of travel from Boca de Chapare to Todos Santos. Again in Todos Santos from 7-12 September.
 
+Entry fro Oct. 17. (Ele-Ele): "Mike stayed in to label + wrap birds + when Berto got in they both went seining in river."
+
 Boca de Chaparé visited by the Carriker expedition in the 1930's is sometimes translated to "mouth of the Chaparé". This literal translation is correct, but unnecessary. Boca de Chaparé does not refer to the confluence between the río Mamorecillo and río Chaparé (the origin of the río Mamoré), but to the hamlet of Boca de Chaparé situated at the left side of this river mouth. The company stayed at this location for several weeks and also explored the lagoons in the area. Fishes have therefore may not only been collected in the main river, but also in smaller water bodies.
+
+Ele-Ele: tiny hamlet, downstream of Aiquile.
 
 # References
 Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoologische Verhandelingen Leiden 299:1-706.
