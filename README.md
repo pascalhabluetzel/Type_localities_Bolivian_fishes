@@ -21,6 +21,8 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 
 The río Popoi is the type locality of several fish species collected during the Mulford expedition in 1921-1922. All specimens are from September 1921. The expedition left spent several weeks in Huachi before leaving for a five or six day journey to Rurrenabaque in the last days of September (Rusby 1922, White 1922). Pearson writes about the stay in Huachi: "In this locality a month was spent collecting up and down rivers, in side streams, cut-off streams, pools, and in the main river" (Pearson 1924). The village of Popoy is located about 6.5 km downstream of Huachi. There is a meandering river entering the the Alto río Beni about 2 km downstream of Popoy on the other side of the river. This is likely Pearson's río Popoi.
 
+Boca de Chaparé visited by the Carriker expedition in the 1930's is often translated to "mouth of the Chaparé". This literal translation is correct, but unnecessary. Boca de Chaparé does not refer to the confluence between the río Mamorecillo and río Chaparé (the origin of the río Mamoré), but to the hamlet of Boca de Chaparé situated at the left side of this river mouth.
+
 # References
 Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoologische Verhandelingen Leiden 299:1-706.
 
