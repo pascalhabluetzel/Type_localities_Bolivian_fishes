@@ -21,6 +21,8 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 
 The río Popoi is the type locality of several fish species collected during the Mulford expedition in 1921-1922. All specimens are from September 1921. The expedition left spent several weeks in Huachi before leaving for a five or six day journey to Rurrenabaque in the last days of September (Rusby 1922, White 1922). Pearson writes about the stay in Huachi: "In this locality a month was spent collecting up and down rivers, in side streams, cut-off streams, pools, and in the main river" (Pearson 1924). The village of Popoy is located about 6.5 km downstream of Huachi. There is a meandering river entering the the Alto río Beni about 2 km downstream of Popoy on the other side of the river. This is likely Pearson's río Popoi.
 
+Todos Santos of the Carriker expedition: from 31 July 1937 - 13. August 1937. Some exploration to the neighbourhood, including crossing the river and following a trail 10 km to the río Chimoré (Carriker 1937). Todos Santos is different from Todos Santos viejo. Boca Chaparé is two days from Todos Santos. At Boca de Chaparé from 16 - 31 of August 1937. Several trips to the nearby location, including an oxbow lake 2 miles by boat and 1.5 miles by foot up the río Chimoré. Fish were wrapped on the 25th by Mike. Entry for August 28: "we went seining in river for fish, in the shallow around the big sand bars at mouth of river. Got quite a few species different from Todos Santos". 7 days of travel from Boca de Chapare to Todos Santos. Again in Todos Santos from 7-12 September.
+
 Boca de Chaparé visited by the Carriker expedition in the 1930's is sometimes translated to "mouth of the Chaparé". This literal translation is correct, but unnecessary. Boca de Chaparé does not refer to the confluence between the río Mamorecillo and río Chaparé (the origin of the río Mamoré), but to the hamlet of Boca de Chaparé situated at the left side of this river mouth. The company stayed at this location for several weeks and also explored the lagoons in the area. Fishes have therefore may not only been collected in the main river, but also in smaller water bodies.
 
 # References
@@ -29,6 +31,8 @@ Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoolo
 Berlesch, H Graf von (1901) Mitteilungen über die von den Gebrüdern G. und O. Garlepp in Bolivia gesammelten Vögel und Beschreibungen neuer Arten. Journal für Ornithologie 49:81–99.
 
 Bond J & Meyer de Schauensee R (1942) The Birds of Bolivia. Part I. Proceedings of the Academy of Natural Sciences of Philadelphia 94:307-391.
+
+Carriker MA (1937) Melbourne Armstrong Carriker, 3rd Bolivian Expedition, Part I (numbers 13702-15638). 190 pp.
 
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
 
