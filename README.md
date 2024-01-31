@@ -31,6 +31,8 @@ Boca de Chaparé visited by the Carriker expedition in the 1930's is sometimes t
 
 Ele-Ele: tiny hamlet, downstream of Aiquile.
 
+Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel.
+
 # References
 Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoologische Verhandelingen Leiden 299:1-706.
 
