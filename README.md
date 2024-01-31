@@ -14,7 +14,7 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 
 ## 1840's: Hugh Algernon Weddell
 
-Weddell was a botanist and his account on his travels in Bolivia focus on plants. Little information is provided by Castelnau, who worked with Weddell's fish collection and described the type localities of _Callichthys taiosh_, _Callichthys chiquitos_ and _Doras weddellii_ as "flaques d'eau, au milieu des marais desséchés de la province de Chiquitos". Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel. Weddell's map suggests that he travelled from San Rafael to San Miguel and then further west in the direction of Santa Cruz, rather than back to San Rafael and then south to San José. This would suggest that made his collections of lowland fishes in an area which situated historically in the province of Chiquitos, but today belongs to the province of Velasco.
+Weddell was a botanist and his account on his travels in Bolivia focus on plants (Weddell 1850). Little information is provided by Castelnau, who worked with Weddell's fish collection and described the type localities of _Callichthys taiosh_, _Callichthys chiquitos_ and _Doras weddellii_ as "flaques d'eau, au milieu des marais desséchés de la province de Chiquitos" (Castelnau 1855). Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel. Weddell's map suggests that he travelled from San Rafael to San Miguel and then further west in the direction of Santa Cruz, rather than back to San Rafael and then south to San José. This would suggest that made his collections of lowland fishes in an area which situated historically in the province of Chiquitos, but today belongs to the province of Velasco.
 
 ## 1850's: Lardner A. Gibbon
 
@@ -63,6 +63,8 @@ Bond J & Meyer de Schauensee R (1942) The Birds of Bolivia. Part I. Proceedings 
 
 Carriker MA (1937) Melbourne Armstrong Carriker, 3rd Bolivian Expedition, Part I (numbers 13702-15638). 190 pp.
 
+Castelnau, F de (1855) Animaux nouveaux or rares recueillis pendant l'expédition dans les parties centrales de l'Amérique du Sud, de Rio de Janeiro a Lima, et de Lima au Para, Tome Second. Paris (P. Bertrand). v. 2: i-xii + 1-112, Pls. 1-50.
+
 Chapman AD & Wieczorek JR (2020) Georeferencing Best Practices. Copenhagen: GBIF Secretariat. https://doi.org/10.15468/doc-gg7h-s853
 
 Conover B (1943) A study of the Torrent Ducks. Zoological Series of the Field Museum of Natural History 24:345–356.
@@ -94,5 +96,7 @@ Steindachner F (1892) Über einige neue und seltene Fischarten aus der ichthyolo
 Steindachner F (1892) Über zwei noch unbeschrieben Nototrema-Arten aus Ecuador und Bolivia..........
 
 Walschaerts L (1987) Catalogue des types de poissons recents de l'Institute Royal des Sciences Naturelles Belgique. Documents de Travail N°40. pp. 1-66.
+
+Weddell HA (1850) Additions a la flore de l'Amérique du Sud. Victor Masson, Paris. 134 pp.
 
 White OE (1922) Botanical Exploration in Bolivia. Brooklyn Botanic Garden Record 11:93-105.
