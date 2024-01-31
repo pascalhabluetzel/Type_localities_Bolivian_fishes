@@ -14,7 +14,7 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 
 ## 1840's: Hugh Algernon Weddell
 
-Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel. Weddell's map suggests that he travelled from San Rafael to San Miguel and then further west in the direction of Santa Cruz, rather than back to San Rafael and then south to San José. This would mean that made his collections of _Callichthys taiosh_, _Callichthys chiquitos_ and _Doras weddellii_ in an area which situated historically in the province of Chiquitos, but today belongs to the province of Velasco.
+Weddell was a botanist and his account on his travels in Bolivia focus on plants. Little information is provided by Castelnau, who worked with Weddell's fish collection and described the type localities of _Callichthys taiosh_, _Callichthys chiquitos_ and _Doras weddellii_ as "flaques d'eau, au milieu des marais desséchés de la province de Chiquitos". Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel. Weddell's map suggests that he travelled from San Rafael to San Miguel and then further west in the direction of Santa Cruz, rather than back to San Rafael and then south to San José. This would suggest that made his collections of lowland fishes in an area which situated historically in the province of Chiquitos, but today belongs to the province of Velasco.
 
 ## 1850's: Lardner A. Gibbon
 
