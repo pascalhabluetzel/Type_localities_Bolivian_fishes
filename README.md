@@ -14,7 +14,7 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 
 ## 1840's: Hugh Algernon Weddell
 
-Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel.
+Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel. Weddell's map does not show San Rafael de Velasco and San José de Chiquitos. He might have travelled west from San Miguel and only entered the contemporary province of Chiquitos shortly before crossing the río Grande. His collections may be from the Velasco province in the upper Paraguá, San Martín and Negro drainages, but this is speculation.
 
 ## 1850's: Lardner A. Gibbon
 
