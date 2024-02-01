@@ -28,7 +28,7 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 
 ## 1900's: Georges de Créqui-Montfort & Eugène Sénéchal de la Grange (1903); John Diederich Haseman (1909)
 
-Maurice Neveu-Lemaire of the de Créqui-Montfort and Sénéchal de la Grange expedition took systematic notes on location and time of his collections (Chevreux 1904).
+Maurice Neveu-Lemaire of the de Créqui-Montfort and Sénéchal de la Grange expedition took systematic notes on location and time of his collections (Chevreux 1904). These notes can be found in Neveu-Lemaire (1906).
 
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
@@ -94,6 +94,8 @@ Marsola A & Brescovit AD (2018) The taxonomy of the American Ariadna Audouin (Ar
 Meinken H (1969) Wissenschaftliche Ergebnisse der Peru-Bolivien-Expedition Dr. K. H. Lüling 1966. Rivulichthys luelingi nov. spec., eine Zahnkarpfen-Neuheit aus Ostbolivien (Pisces, Teleostei, Rivulinae). Bonner Zoologische Beiträge 20 (4):423-428. 
 
 Mlíkovský J (2009) Types of birds in the collections of the Museum and Institute of Zoology, Polish Academy of Sciences, Warszawa, Poland. Part 3: South American birds. Journal of the National Museum (Prague), Natural History Series 178(5):17-180.
+
+Neveu-Lemaire M (1906) Les lacs des hauts plateaux de l'Amerique du Sud. Imprimerie Nationale (Paris). 197 pp.
 
 Niethammer G (1953) Zur Vogelwelt Boliviens. Bonner Zoologische Beiträge 3-4:195-303.
 
