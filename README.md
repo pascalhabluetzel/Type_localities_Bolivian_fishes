@@ -28,7 +28,7 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 
 ## 1900's: Georges de Créqui-Montfort & Eugène Sénéchal de la Grange (1903); John Diederich Haseman (1909)
 
-de Créqui-Montfort and Sénéchal de la Grange took systematic notes on location and time of their collections (Chevreux 1904).
+Maurice Neveu-Lemaire of the de Créqui-Montfort and Sénéchal de la Grange expedition took systematic notes on location and time of his collections (Chevreux 1904).
 
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
