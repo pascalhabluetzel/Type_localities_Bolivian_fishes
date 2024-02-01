@@ -29,10 +29,14 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 ## 1900's: Georges de Créqui-Montfort & Eugène Sénéchal de la Grange (1903); John Diederich Haseman (1909)
 
 Maurice Neveu-Lemaire of the de Créqui-Montfort and Sénéchal de la Grange expedition took systematic notes on location and time of his collections (Chevreux 1904). These notes can be found in Neveu-Lemaire (1906).
-O. agassizi v. Crequii: station 29?
-O. agassizi v. inornata: station 29?
-O. agassizi v. Senechali: station 29?, 30
+O. agassizi v. Crequii: station 29
+O. agassizi v. inornata: station 29
+O. agassizi v. Senechali: station 29, 124
+O. agassizi v. typica: station 29
 O. neveui: station 24
+Station 24: "un peu nord de" "l'entrée du détroit séparant la pointe de Carrapata de l'île d'Ampupa", profondeur 1.90 mètres
+Station 29: Chililaya, profondeur 2.55 mètres (today Puerto Pérez, Bolivia)
+Station 124: golfe de Puno, profondeur 5.00 mètres (Peru)
 
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
@@ -110,6 +114,12 @@ Staudinger O (1892) Neue Papilio-Formen aus Südamerika. Deutsche Entomologische
 Steindachner F (1892) Über einige neue und seltene Fischarten aus der ichthyologischen Sammlung des K. K. Naturhistorischen Hofmuseums. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Classe. v. 59 (1. Abth.): 357-384, Pls. 1-6.
 
 Steindachner F (1892) Über zwei noch unbeschrieben Nototrema-Arten aus Ecuador und Bolivia..........
+
+Valenciennes A (1839)
+
+Valenciennes A (1839)
+
+Valenciennes A (1846)
 
 Walschaerts L (1987) Catalogue des types de poissons recents de l'Institute Royal des Sciences Naturelles Belgique. Documents de Travail N°40. pp. 1-66.
 
