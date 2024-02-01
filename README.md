@@ -12,7 +12,7 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 
 ## 1820's: Joseph Barclay Pentland
 
-Collections were made by Joseph Barclay Pentland while he was British consul-general in Bolivia from 1836 to 1839. Specimens of one Trichomycterus and four Orestias species were sent or brought directly to Valenciennes, who  hastily announced the discovery (Valenciennes 1839a, 1839b) and published the species descriptions a few years later (Valenciennes 1846). It seems that no record was kept on the exact location and date of the collections (Bertin & Estève 1950).
+Collections were made by Joseph Barclay Pentland while he was British consul-general in Bolivia from 1836 to 1839. Specimens of one Trichomycterus and four Orestias species were sent or brought directly to Valenciennes, who  hastily announced the discovery (Valenciennes 1839a, 1839b) and published the species descriptions a few years later (Valenciennes 1846). It seems that no record was kept on the exact location and date of the collection of Trichomycterus barbatula (Bertin & Estève 1950a).  Syntype of O. humboldti is from Guaichu (Peru) (Bertin & Estève 1950b).
 
 ## 1840's: Hugh Algernon Weddell
 
@@ -61,7 +61,9 @@ Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoolo
 
 Berlesch, H Graf von (1901) Mitteilungen über die von den Gebrüdern G. und O. Garlepp in Bolivia gesammelten Vögel und Beschreibungen neuer Arten. Journal für Ornithologie 49:81–99.
 
-Bertin L & Estève R (1950) Catalogue des types de poissons du Muséum National d'Histoire Naturelle: 5e Partie: Ostariophysaires (Siluriformes). 92 pp.
+Bertin L & Estève R (1950a) Catalogue des types de poissons du Muséum National d'Histoire Naturelle: 5e Partie: Ostariophysaires (Siluriformes). 92 pp.
+
+Bertin L & Estève R (1950b) Catalogue des types de poissons du Muséum National d'Histoire Naturelle: 6e Partie: Haplomes, Hétéromes, Catostéomes. 60 pp.
 
 Bond J & Meyer de Schauensee R (1942) The Birds of Bolivia. Part I. Proceedings of the Academy of Natural Sciences of Philadelphia 94:307-391.
 
