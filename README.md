@@ -12,6 +12,8 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 
 ## 1820's: Joseph Barclay Pentland
 
+Collections were made by Joseph Barclay Pentland while he was British consul-general in Bolivia from 1836 to 1839. Specimens of one Trichomycterus and four Orestias species were sent or brought directly to Valenciennes, who  hastily announced the discovery (Valenciennes 1839a, 1839b) and published the species descriptions a few years later (Valenciennes 1846). It seems that no record was kept on the exact location and date of the collections (Bertin & Estève 1950).
+
 ## 1840's: Hugh Algernon Weddell
 
 Weddell was a botanist and his account on his travels in Bolivia focus on plants (Weddell 1850). Little information is provided by Castelnau, who worked with Weddell's fish collection and described the type localities of _Callichthys taiosh_, _Callichthys chiquitos_ and _Doras weddellii_ as "flaques d'eau, au milieu des marais desséchés de la province de Chiquitos" (Castelnau 1855). Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel. Weddell's map suggests that he travelled from San Rafael to San Miguel and then further west in the direction of Santa Cruz, rather than back to San Rafael and then south to San José (Weddell 1850). This would suggest that made his collections of lowland fishes in an area which situated historically in the province of Chiquitos, but today belongs to the province of Velasco.
@@ -58,6 +60,8 @@ The type locality description for _Apistogramma rubrolineata_ has an unconventio
 Avila-Pires TCS (1995) Lizards of Brazilian Amazonia (Reptilia: Squamata). Zoologische Verhandelingen Leiden 299:1-706.
 
 Berlesch, H Graf von (1901) Mitteilungen über die von den Gebrüdern G. und O. Garlepp in Bolivia gesammelten Vögel und Beschreibungen neuer Arten. Journal für Ornithologie 49:81–99.
+
+Bertin L & Estève R (1950) Catalogue des types de poissons du Muséum National d'Histoire Naturelle: 5e Partie: Ostariophysaires (Siluriformes). 92 pp.
 
 Bond J & Meyer de Schauensee R (1942) The Birds of Bolivia. Part I. Proceedings of the Academy of Natural Sciences of Philadelphia 94:307-391.
 
