@@ -28,7 +28,7 @@ _Crenicichla saxatilis_ var. _semicincta_ Steindachner 1892 was described based 
 
 ## 1900's: Georges de Créqui-Montfort & Eugène Sénéchal de la Grange (1903); John Diederich Haseman (1909)
 
-Maurice Neveu-Lemaire of the de Créqui-Montfort and Sénéchal de la Grange expedition took systematic notes on location and time of his collections (Chevreux 1904). These notes can be found in Neveu-Lemaire (1906).
+Maurice Neveu-Lemaire of the de Créqui-Montfort and Sénéchal de la Grange expedition took systematic notes on location and time of his collections (Chevreux 1904). These notes can be found in Neveu-Lemaire (1906). The type locality of _O. agassizi_ var. _Crequii_, _O. agassizi_ var. _inornata_, _O. agassizi_ var. _Senechali_ and _O. agassizi_ var. _typica_ is the Lago Titicaca at Chilaya in Bolivia (for exact location (station 29) see Neveu-Lemaire (1906)). Additional type localities (syntypes) are Lago Poopo and río Pazña for _O. agassizi_ var. _inornata_, the lagune d'Acostan (Chili) for _O. agassizi_ var. _typica_ and Bay of Puno (Lago Titicaca, Peru) for _O. agassizi_ v. _Senechali_. The type locality of _O. neveui_ is slightly nord of the entrance of the strait separating the peninsula of Karapata and the island of Cumana.
 
 O. agassizi v. Crequii: station 29 \
 O. agassizi v. inornata: station 29 \
@@ -37,13 +37,13 @@ O. agassizi v. typica: station 29 \
 O. neveui: station 24 \
 Station 24: "un peu nord de" "l'entrée du détroit séparant la pointe de Carrapata de l'île d'Ampupa", profondeur 1.90 mètres \
 Station 29: Chililaya, profondeur 2.55 mètres (today Puerto Pérez, Bolivia) \
-Station 124: golfe de Puno, profondeur 5.00 mètres (Peru) \
+Station 124: golfe de Puno, profondeur 5.00 mètres (Peru)
 
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
 The río Popoi is the type locality of several fish species collected during the Mulford expedition in 1921-1922. All specimens are from September 1921. The expedition left spent several weeks in Huachi before leaving for a five or six day journey to Rurrenabaque in the last days of September (Rusby 1922, White 1922). Pearson writes about the stay in Huachi: "In this locality a month was spent collecting up and down rivers, in side streams, cut-off streams, pools, and in the main river" (Pearson 1924). The village of Popoy is located about 6.5 km downstream of Huachi. There is a meandering river entering the the Alto río Beni about 2 km downstream of Popoy on the other side of the river. This is likely Pearson's río Popoi.
 
-Ivon: White 1922 writes: "made a new base under the hospitable roof of the Suarez Brotherss' finca at Rio Ivon" "about a week collecting along the Ivon River in a covered boat". About two weeks were spent at Cachuela Esperanza.
+Ivon: White 1922 writes: "made a new base under the hospitable roof of the Suarez Brothers' finca at Rio Ivon" "about a week collecting along the Ivon River in a covered boat". About two weeks were spent at Cachuela Esperanza.
 
 ## 1930's: Carriker expedition (Melbourne A. Carriker)
 
