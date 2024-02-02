@@ -47,7 +47,7 @@ Station 124: golfe de Puno, profondeur 5.00 mètres (Peru)
 
 The río Popoi is the type locality of several fish species collected during the Mulford expedition in 1921-1922. All specimens are from September 1921. The expedition left spent several weeks in Huachi before leaving for a five or six day journey to Rurrenabaque in the last days of September (Rusby 1922, White 1922). Pearson writes about the stay in Huachi: "In this locality a month was spent collecting up and down rivers, in side streams, cut-off streams, pools, and in the main river" (Pearson 1924). The village of Popoy is located about 6.5 km downstream of Huachi. There is a meandering river entering the the Alto río Beni about 2 km downstream of Popoy on the other side of the river. This is likely Pearson's río Popoi.
 
-Ivon: White 1922 writes: "made a new base under the hospitable roof of the Suarez Brothers' finca at Rio Ivon" "about a week collecting along the Ivon River in a covered boat". About two weeks were spent at Cachuela Esperanza.
+Ivon: White 1922 writes: "made a new base under the hospitable roof of the Suarez Brothers' finca at Rio Ivon" "about a week collecting along the Ivon River in a covered boat". About two weeks were spent at Cachuela Esperanza (White 1922).
 
 ## 1930's: Carriker expedition (Melbourne A. Carriker)
 
