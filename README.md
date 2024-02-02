@@ -43,6 +43,10 @@ Station 24: "un peu nord de" "l'entrée du détroit séparant la pointe de Carra
 Station 29: Chililaya, profondeur 2.55 mètres (today Puerto Pérez, Bolivia) \
 Station 124: golfe de Puno, profondeur 5.00 mètres (Peru)
 
+Additional information from Eigenmann (1911a): Creagrutus beni: Swamp back of Villa Bella; Phenacogaster: Swamp back of Villa Bella
+
+Trichomycterus barbouri: Eigenmann (1911b) notes: "The specimens were obtained by Mr. Thomas Barbour at La Paz, Bolivia, from a person who had been prospecting along the Beni river."
+
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
 The río Popoi is the type locality of several fish species collected during the Mulford expedition in 1921-1922. All specimens are from September 1921. The expedition left spent several weeks in Huachi before leaving for a five or six day journey to Rurrenabaque in the last days of September (Rusby 1922, White 1922). Pearson writes about the stay in Huachi: "In this locality a month was spent collecting up and down rivers, in side streams, cut-off streams, pools, and in the main river" (Pearson 1924). The village of Popoy is located about 6.5 km downstream of Huachi. There is a meandering river entering the the Alto río Beni about 2 km downstream of Popoy on the other side of the river. This is likely Pearson's río Popoi.
