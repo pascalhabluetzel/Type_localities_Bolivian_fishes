@@ -14,17 +14,17 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 
 Collections were made by Joseph Barclay Pentland while he was British consul-general in Bolivia from 1836 to 1839. Specimens of one Trichomycterus and four Orestias species were sent or brought directly to Valenciennes, who  hastily announced the discovery (Valenciennes 1839a, 1839b) and published the species descriptions a few years later (Valenciennes 1846). It seems that no record was kept on the exact location and date of the collection of Trichomycterus barbatula (Bertin & Estève 1950a).  Syntype of O. humboldti is from Guaichu (Peru) (Bertin & Estève 1950b).
 
-## 1840's: Hugh Algernon Weddell
+## 1840's: Hugh d'Algernon Weddell
 
 The species described from Bolivia by Castelnau (1855b) were collected during the expedition of Francis de Castelnau in 1845. Weddell was a botanist and his account on his travels in Bolivia focus on plants (Weddell 1850). Weddell was in the (historical) province of Chiquitos from 29 August to 13 of October 1845 (Weddell 1850), a few weeks after Castelnau travelled across roughly the same area (Castelnau 1855a). Little information is provided by Castelnau, who worked with Weddell's fish collection and described the type localities of _Callichthys taiosh_, _Callichthys chiquitos_ and _Doras weddellii_ as "flaques d'eau, au milieu des marais desséchés de la province de Chiquitos" (Castelnau 1855b). Weddell describes in this 1850 book that he entered Bolivia from Mato Grosso (= Vila Bela de Santissima Trinidade) and took the southern route to reach Santa Cruz de la Sierra via San Miguel. Weddell's map suggests that he travelled from San Rafael to San Miguel and then further west in the direction of Santa Cruz, rather than back to San Rafael and then south to San José (Weddell 1850), a different route than Castelnau, who travelled from San Ignacio to Santa Cruz on the northern route via Conceptión and San Javier (Castelnau 1855a). This would suggest that made his collections of lowland fishes in an area which situated historically in the province of Chiquitos, but today belongs to the province of Velasco.
 
 ## 1850's: Lardner A. Gibbon
 
-Curimatus leuciscus boliviae Eigenmann & Ogle 1907, Elopomorphus jordanii Gill 1878, Psectrogaster auratus Gill 1896; Eigenmann & Ogle (1907) give collection year (or year added to the collection) as 1852. Vari and Howe (1991) note that all three specimen have a note in the collection ledgers stating they are from "Mamora R. Bolivia" (i.e. presumably from the río Mamoré).
+Curimatus leuciscus boliviae Eigenmann & Ogle 1907, Elopomorphus jordanii Gill 1878, Psectrogaster auratus Gill 1896; Eigenmann & Ogle (1907) give collection year (or year added to the collection) as 1852. Vari and Howe (1991) mention that all three specimen have a note in the collection ledgers stating they are from "Mamora R. Bolivia" (i.e. presumably from the río Mamoré).
 
 ## 1870's: James Orton
 
-## 1890's: Luigi Balzan; Gustav Garlepp
+## 1890's: Luigi Balzan; Gustav Garlepp; Alfredo Borelli
 
 Luigi Balzan died in Italy in September 1893 because of malaria (Perugia 1897) shortly after returning from his expedition to Bolivia (ca. 1891-1893). No travelling account is known.
 
@@ -51,6 +51,8 @@ Entomocorus benjamini: San Joaquin, río Machupo (match could be made by collect
 Ageneiosus madeirensis: San Joaquin, río Machupo (match could be made by collection date (6 September 1909).
 
 Trichomycterus barbouri: Eigenmann (1911b) notes: "The specimens were obtained by Mr. Thomas Barbour at La Paz, Bolivia, from a person who had been prospecting along the Beni river."
+
+The type of _Xenocara montana_ Regan 1904 were collected by John William Evans in Tumupasa (misspelled as Tumupara in the first description of the species). Memebers of the expedition spent several weeks in Tumupasa in December 1901 and again in January 1902 (Evans 1903).
 
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
@@ -104,6 +106,8 @@ Conover B (1943) A study of the Torrent Ducks. Zoological Series of the Field Mu
 Dirksen L & De la Riva (1999) The lizards and amphisbaenians of Bolivia (Reptilia, Squamata): Checklist, localties, and bibliography. Graellsia 55:199-215.
 
 Duellman WE & Köhler J (2005) New specie of marupial frog (Hylidae: Hemiphractinae: Gastrotheca) from the Yungas of Bolivia. Journal of Herpetology 39(1):91-100.
+
+Evans JW (1903) Expedition to Caupolican Bolivia, 1901-1902. The Geographical Journal 22(6):601-622.
 
 Koerber S & Terán GE (2021) Viaggio del Dr. Alfredo Borelli nel Chaco Boliviano e nella Repubblica Argentina. XIX. Localities of Fishes. Historia Natural (Tercera Serie) 11(1):135-147.
 
