@@ -54,6 +54,9 @@ Ageneiosus madeirensis: San Joaquin, río Machupo (match could be made by collec
 Platysilurus barbatus: São Antonio de Rio Madeira. Rio Madeira near São Antonio (match could be made by collection date (3 November 1909).
 Gymnorhamphichthys hypostomus: no collection date given, unclear which water body at San Joaquín. However, Ellis 1913 notes September 5 as collection date of the holotype, which would mean that it had been collected in the río Machupo.
 Cheirodon madeirae: San Joaquín, Bolivia. Lake one mile west of town (match could be made by collection date (4 September 1909).
+Pimelodella serrata: San Joaquín, Bolivia. Rio Machupo (match could be made by collection date (5-6 September 1909).
+Cherocerus eques: Villa Bella, Bolivia, Rio Beni, into Rio Madeira (match could be made by collection date (5 October 1909).
+Vandellia hasemani: Rio Mamoré. Below mouth of Rio Guaporé (inferred, because type locality mentioned by Eigenmann in the first description only reads 'Rio Mamoré').
 
 Trichomycterus barbouri: Eigenmann (1911b) notes: "The specimens were obtained by Mr. Thomas Barbour at La Paz, Bolivia, from a person who had been prospecting along the Beni river."
 
