@@ -20,6 +20,8 @@ The species described from Bolivia by Castelnau (1855b) were collected during th
 
 ## 1850's: Lardner A. Gibbon
 
+Curimatus leuciscus boliviae Eigenmann & Ogle 1907, Elopomorphus jordanii Gill 1878, Psectrogaster auratus Gill 1896; Eigenmann & Ogle (1907) give collection year (or year added to the collection) as 1852. Vari and Howe (1991) note that all three specimen have a note in the collection ledgers stating they are from "Mamora R. Bolivia" (i.e. presumably from the río Mamoré).
+
 ## 1870's: James Orton
 
 ## 1890's: Luigi Balzan; Gustav Garlepp
@@ -43,7 +45,10 @@ Station 24: "un peu nord de" "l'entrée du détroit séparant la pointe de Carra
 Station 29: Chililaya, profondeur 2.55 mètres (today Puerto Pérez, Bolivia) \
 Station 124: golfe de Puno, profondeur 5.00 mètres (Peru)
 
-Additional information from Eigenmann (1911a): Creagrutus beni: Swamp back of Villa Bella; Phenacogaster: Swamp back of Villa Bella
+Additional information from Eigenmann (1911a): Creagrutus beni: Swamp back of Villa Bella; Phenacogaster: Swamp back of Villa Bella \
+Stethaprion crenatum: San Joaquin, Bolivia. Lake one mile west of town (no collection number given in first description by Eigenmann (1916), but collection date could be matched (4 September 1909).
+Entomocorus benjamini: San Joaquin, río Machupo (match could be made by collection date (5 September 1909).
+Ageneiosus madeirensis: San Joaquin, río Machupo (match could be made by collection date (6 September 1909).
 
 Trichomycterus barbouri: Eigenmann (1911b) notes: "The specimens were obtained by Mr. Thomas Barbour at La Paz, Bolivia, from a person who had been prospecting along the Beni river."
 
@@ -135,6 +140,8 @@ Valenciennes A (1839)
 Valenciennes A (1839)
 
 Valenciennes A (1846)
+
+Vari RP and Howe (1991) Catalog of type specimens of Recent fishes in the National Museum of Natural History, Smithsonian Institution. 1. Characiformes (Teleostei, Ostariophysi). Smithsonian Contributions to Zoology No. 517: 1-52.
 
 Walschaerts L (1987) Catalogue des types de poissons recents de l'Institute Royal des Sciences Naturelles Belgique. Documents de Travail N°40. pp. 1-66.
 
