@@ -27,28 +27,28 @@ nr.	year	original_name	author	name_category	valid_name	country_type_locality	dec
 24	1904	Orestias agassizi var. Senechali	Pellegrin 1904	synonym	Orestias agassii	Lake Titicaca			"lac Titicaca, Rio de Pazña"	Lake Titicaca	-15.912056	-69.327967	(WGS84) World Geodetic System 1984	99154	0.0000001	Pascal I. Hablützel	2024-01-28T16:57:29.035Z	Georeferencing Quick Reference Guide. 2020		
 25	1904	Orestias agassizi var. typica	Pellegrin 1904	synonym	Orestias agassii	Lake Titicaca			lac Titicaca	Lake Titicaca	-15.912056	-69.327967	(WGS84) World Geodetic System 1984	99154	0.0000001	Pascal I. Hablützel	2024-01-28T16:57:29.035Z	Georeferencing Quick Reference Guide. 2020		
 28	1904	Orestias neveui	Pellegrin 1904	synonym	Orestias alba	Lake Titicaca			lac Titicaca	Lake Titicaca	-15.912056	-69.327967	(WGS84) World Geodetic System 1984	99154	0.0000001	Pascal I. Hablützel	2024-01-28T16:57:29.035Z	Georeferencing Quick Reference Guide. 2020		
-169	1904	Xenocara montana	Regan 1904	valid	Ancistrus montanus					"Tumupasa, Andes of Bolivia, elevation 1500 feet"										
-120	1907	Curimatus leuciscus boliviae	Eigenmann & Ogle 1907	synonym	Steindachnerina leuciscus	Bolivia				"Apparently Río Mamoré, Bolivia"										
+169	1904	Xenocara montana	Regan 1904	valid	Ancistrus montanus				"Tumupara, Andes of Bolivia, 1500 feet"	"Tumupasa, Andes of Bolivia, elevation 1500 feet"										
+120	1907	Curimatus leuciscus boliviae	Eigenmann & Ogle 1907	synonym	Steindachnerina leuciscus	Bolivia			Bolivia	"Apparently Río Mamoré, Bolivia"										
 	1911	Creagrutus beni	Eigenmann 1911		Creagrutus beni	Bolivia			Villa Bella on Rio Beni	"Río Beni at Villa Bella, Amazon system, Bolivia"										
 14	1911	Crenicara altispinosa	Haseman 1911	valid	Mikrogeophagus altispinosus	Bolivia			"Sand-bank in the Rio Mamoré, below the mouth of the Rio Guaporé"	"Río Mamoré, below mouth of Río Guaporé, San Joaquin, Bolivia"	-11.912996	-65.019569	(WGS84) World Geodetic System 1984	3816	0.0000001	Pascal I. Hablützel	2024-01-26T07:41:39.402Z	Georeferencing Quick Reference Guide. 2020		
 104	1911	Phenacogaster beni	Eigenmann 1911	valid	Phenacogaster beni	Bolivia			"Villa Bella, Rio Beni"	"Río Beni at Villa Bella, Bolivia"										
-137	1911	Bunocephalus depressus	Haseman 1911	valid	Pterobunocephalus depressus					"Río Machupo near San Joaquín, Amazon system, Bolivia"										
-186	1911	Platysilurus barbatus	Haseman 1911	synonym	Platysilurus mucosus					"São Antonio de Río Madeira, Bolivia"										
+137	1911	Bunocephalus depressus	Haseman 1911	valid	Pterobunocephalus depressus				"Rio Machupo, near San Joaquin, Bolivia"	"Río Machupo near San Joaquín, Amazon system, Bolivia"										
+186	1911	Platysilurus barbatus	Haseman 1911	synonym	Platysilurus mucosus				"São Antonio de Rio Madeira, Bolivia"	"São Antonio de Río Madeira, Bolivia"										
 194	1911	Pygidium barbouri	Eigenmann 1911	valid	Trichomycterus barbouri				"upper reaches of the Beni River, tropical eastern Bolivia"	"Río Beni, eastern Bolivia"										
-133	1912	Gymnorhamphichthys hypostomus	Ellis 1912	valid	Gymnorhamphichthys hypostomus					"San Joaquín, Bolivia"										
-107	1915	Cheirodon micropterus	Eigenmann 1915	synonym	Serrapinnus micropterus	Bolivia				"San Joaquín, Bolivia"										
-167	1915	Xenocara boliviana	Steindachner 1915	synonym	Ancistrus marcapatae					"Río Songo in North Yungas, upper Amazon River basin, Bolivia"										
-198	1915	Pygidium fassli	Steindachner 1915	valid	Trichomycterus fassli					"Río Songo in North Yungas, upper Amazon River system, Bolivia"										
+133	1912	Gymnorhamphichthys hypostomus	Ellis 1912	valid	Gymnorhamphichthys hypostomus				"San Joaquin, Bolivia"	"San Joaquín, Bolivia"										
+107	1915	Cheirodon micropterus	Eigenmann 1915	synonym	Serrapinnus micropterus	Bolivia			"San Joaquin, Bolivia"	"San Joaquín, Bolivia"										
+167	1915	Xenocara boliviana	Steindachner 1915	synonym	Ancistrus marcapatae				"Rio Songo, Nord Yungas, Bolivia"	"Río Songo in North Yungas, upper Amazon River basin, Bolivia"										
+198	1915	Pygidium fassli	Steindachner 1915	valid	Trichomycterus fassli				"Rio Songo im Distrikt Nord-Yungas, Bolivien"	"Río Songo in North Yungas, upper Amazon River system, Bolivia"										
 20	1916	Heterandria hasemani	Henn 1916	valid	Pamphorichthys hasemani	Bolivia			"Puerto Suarez, Bolivia (Paraguay Basin)"	"Puerto Suárez, Río Paraguay basin, Bolivia"	-18.967311	-57.799491	(WGS84) World Geodetic System 1984	2215	0.0000001	Pascal I. Hablützel	2024-01-28T16:42:42.477Z	Georeferencing Quick Reference Guide. 2020		
-38	1916	Orestias cypho	Fowler 1916	synonym	Orestias lutea	Bolivia				"La Paz, Bolivia (from a snake)"										
-108	1916	Stethaprion crenatum	Eigenmann 1916	valid	Stethaprion crenatum	Bolivia				"San Joaquín, Bolivia"										
-208	1916	Arges stuebeli	Wandolleck 1916	valid	Astroblepus stuebeli					"Lake Titicaca, Peru/Bolivia"										
-134	1917	Entomocorus benjamini	Eigenmann 1917	valid	Entomocorus benjamini					"San Joaquin, Bolivia"										
-135	1917	Ageneiosus madeirensis	Fisher 1917	synonym	Tympanopleura rondoni					"San Joaquín, upper Amazon River drainage, Bolivia"										
-161	1917	Pimelodella boliviana	Eigenmann 1917	valid	Pimelodella boliviana					"Santa Cruz de la Sierra, Bolivia"										
-165	1917	Pimelodella serrata	Eigenmann 1917	valid	Pimelodella serrata					"San Joaquín, Amazon system, Bolivia"										
-184	1917	Cheirocerus eques	Eigenmann 1917	valid	Cheirocerus eques					"Villa Bella, Río Beni into Río Madeira, Bolivia"										
-190	1918	Vandellia hasemani	Eigenmann 1918	synonym	Plectrochilus machadoi					"Río Mamoré, Alto Amazonas, Bolivia"										
+38	1916	Orestias cypho	Fowler 1916	synonym	Orestias lutea	Bolivia			"Taken from a Permo snake from La Paz, Bolivia"	"La Paz, Bolivia (from a snake)"										
+108	1916	Stethaprion crenatum	Eigenmann 1916	valid	Stethaprion crenatum	Bolivia			"San Joaquin, Bolivia"	"San Joaquín, Bolivia"										
+208	1916	Arges stuebeli	Wandolleck 1916	valid	Astroblepus stuebeli				Titicacasee	"Lake Titicaca, Peru/Bolivia"									collected by Stübel	
+134	1917	Entomocorus benjamini	Eigenmann 1917	valid	Entomocorus benjamini				San Joaquin	"San Joaquin, Bolivia"										
+135	1917	Ageneiosus madeirensis	Fisher 1917	synonym	Tympanopleura rondoni				"San Joaquin, Bolivia"	"San Joaquín, upper Amazon River drainage, Bolivia"										
+161	1917	Pimelodella boliviana	Eigenmann 1917	valid	Pimelodella boliviana				"Santa Cruz de la Sierra, Bolivia"	"Santa Cruz de la Sierra, Bolivia"									collected by Steinbach	
+165	1917	Pimelodella serrata	Eigenmann 1917	valid	Pimelodella serrata				"San Joaquin, Bolivia"	"San Joaquín, Amazon system, Bolivia"										
+184	1917	Cheirocerus eques	Eigenmann 1917	valid	Cheirocerus eques				Villa Bella	"Villa Bella, Río Beni into Río Madeira, Bolivia"										
+190	1918	Vandellia hasemani	Eigenmann 1918	synonym	Plectrochilus machadoi				Rio Mamoré	"Río Mamoré, Alto Amazonas, Bolivia"										
 126	1923	Metynnis otuquensis	Ahl 1923	valid	Metynnis otuquensis	Bolivia				"Bahia Negra, Río Otuquis, Bolivia or Paraguay"										
 81	1924	Hyphessobrycon ellisi	Pearson 1924	valid	Bryconacidnus ellisi	Bolivia			"Espia. At the junction of the Miguilla and La Paz rivers. Altitude 3,080 feet."	"Espia, Bolivia"	-16.51609	-67.343336	(WGS84) World Geodetic System 1984	1254	0.0000001	Pascal I. Hablützel	2024-01-29T20:57:14.518Z	Georeferencing Quick Reference Guide. 2020		
 90	1924	Hemibrycon beni	Pearson 1924	valid	Hemibrycon beni	Bolivia			"Espia. At the junction of the Miguilla and La Paz rivers. Altitude 3,080 feet."	"Espia, Bolivia"	-16.51609	-67.343336	(WGS84) World Geodetic System 1984	1254	0.0000001	Pascal I. Hablützel	2024-01-29T20:57:14.518Z	Georeferencing Quick Reference Guide. 2020		
@@ -97,10 +97,10 @@ nr.	year	original_name	author	name_category	valid_name	country_type_locality	dec
 123	1940	Parodon caudalis	Fowler 1940	synonym	Parodon carrikeri	Bolivia			"Villa Montes, Rio Pilcomayo, Bolivia"	"Río Pilcomayo at Villa Montes, Tarija, Bolivia"										
 77	1940	Aphyocharax gracilis	Fowler 1940	valid	Aphyocharax gracilis	Bolivia			"Villa Montes, Rio Pilcomayo, Bolivia"	"Río Pilcomayo, Villa Montes, Bolivia"										
 101	1940	Odontostilbe dierythrura	Fowler 1940	valid	Odontostilbe dierythrura	Bolivia			"Todos Santos, Rio Chapare, Bolivia"	"Todos Santos, Río Chapare, Bolivia"										
-159	1940	Nannorhamdia stictonotus	Fowler 1940	valid	Imparfinis stictonotus				"Todos Santos, Rio Chapare, Bolivia"	"Todos Santos, Río Chapare, Bolivia"										
-180	1940	Otocinclus mariae	Fowler 1940	valid	Otocinclus mariae				"Boca Chapare, Rio Chimore, Cochabamba, Bolivia."	"Boca Chapare, Río Chimore, tributary to Río Ichilo, about 15°58'S, 64°42'W, Río Mamoré system, Bolivia"										
-203	1940	Pygidium tiraquae	Fowler 1940	valid	Trichomycterus tiraquae				"Tiraque, Cochabamba Department, Bolivia"	"Tiraque, Cochabamba, Bolivia"										
-193	1942	Pygidium atochae	Allen 1942	valid	Trichomycterus atochae				"Rio de Atocha, Atocha, Bolivia"	"Río de Atocha, Bolivia"										
+159	1940	Nannorhamdia stictonotus	Fowler 1940	valid	Imparfinis stictonotus	Bolivia			"Todos Santos, Rio Chapare, Bolivia"	"Todos Santos, Río Chapare, Bolivia"										
+180	1940	Otocinclus mariae	Fowler 1940	valid	Otocinclus mariae	Bolivia			"Boca Chapare, Rio Chimore, Cochabamba, Bolivia."	"Boca Chapare, Río Chimore, tributary to Río Ichilo, about 15°58'S, 64°42'W, Río Mamoré system, Bolivia"										
+203	1940	Pygidium tiraquae	Fowler 1940	valid	Trichomycterus tiraquae	Bolivia			"Tiraque, Cochabamba Department, Bolivia"	"Tiraque, Cochabamba, Bolivia"										
+193	1942	Pygidium atochae	Allen 1942	valid	Trichomycterus atochae	Bolivia			"Rio de Atocha, Atocha, Bolivia"	"Río de Atocha, Bolivia"										
 89	1943	Corynopomops opisthopterus	Fowler 1943	synonym	Geyphyrocharax major	Bolivia			"Todos Santos, Bolivia"	"Todos Santos, Río Chapare, Cochabamba, Bolivia"										
 79	1943	Astyanax chaparae	Fowler 1943	valid	Astyanax chaparae	Bolivia			"Todos Santos, Bolivia"	"Todos Santos, Río Chapare, Cochabamba, Bolivia, elevation 1000 feet"										
 97	1943	Astyanax mizquae	Fowler 1943	valid	Astyanax mizquae	Bolivia			"Ele Ele, 5000 feet elevation, Rio Mizque, Department of Cochabamba, Bolivia"	"Río Mizque, Ele Ele, Cochabamba, Bolivia, elevation 5000 feet"										
@@ -112,7 +112,7 @@ nr.	year	original_name	author	name_category	valid_name	country_type_locality	dec
 42	1944	Orestias taquiri	Tchernavin 1944	valid	Orestias taquiri	Bolivia			"Taquiri Island, Lago Pequeño (shallow south-eastern part of Lake Titicaca), depth 2.7-2.8 M"	"Taquiri Island, Lago Pequeño, southeastern Lake Titicaca, Bolivia, depth 2.7-2.8 meters"										
 46	1944	Orestias tutini	Tchernavin 1944	valid	Orestias tutini	Bolivia			"Taquiri Island, Lago Pequeño (shallow south-eastern part of Lake Titicaca), depth 2.7-2.8 M"	"Taquiri Island, Lago Pequeño, southeastern Lake Titicaca, Bolivia, depth 2.7-2.8 meters"										
 19	1966	Belonion apodion	Collette 1966	valid	Belonion apodion	Bolivia			"Bolivia, laguna 3 kilometers southwest of Costa Margues, Brazil, Río Guaporé"	"Laguna 3 kilometers southwest of Costa Marques, Rio Guaporé, Bolivia at Brazil-Bolivia boundary"	-12.473538	-64.244053	(WGS84) World Geodetic System 1984	1116	0.0000001	Pascal I. Hablützel	2024-01-28T16:38:46.223Z	Georeferencing Quick Reference Guide. 2020		
-196	1968	Trichomycterus chaberti	Durand 1968	valid	Trichomycterus chaberti					"Cave of Umayalanta, 8 kilometers northwest of town of Torotoro, Potosí dept., Bolivia"										
+196	1968	Trichomycterus chaberti	Durand 1968	valid	Trichomycterus chaberti				"Umayalanta (Grotte de), Bolivie"	"Cave of Umayalanta, 8 kilometers northwest of town of Torotoro, Potosí dept., Bolivia"										
 63	1969	Rivulichthys luelingi	Meinken 1969	synonym	Pterolebias longipinnis	Bolivia			"Urwaldsenke (Station ""TS 3"") in der Nähe des Rio Chapare, ungefähr 4 km unterhalb der Ortschaft Todos Santos in Ostbolivien (Abb. 1 und 2). Nach brieflicher Mitteilung von Herrn Dr. Lüling handelt es sich um ein langgestrecktes, meist 5-6 m breites Gewässer, das zur Niedrigwasserzeit an seinen tiefsten Stellen nur 40-50 Zentimeter mißt. Es ist ganz in die Urwaldvegetation eingebettet; das Ufergesträuch ragt aber nicht überall über den wasserspiegel hinweg. Das stehende Wasser ist dementsprechend hochtemperiert."	"Río Chaparé, about 4 kilometers from village of Todos Santos, Rio Mamoré drainage, Depto. Cochabamba, eastern Bolivia"	-16.806688	-65.179999	(WGS84) World Geodetic System 1984	1065	0.0000001	Pascal I. Hablützel	2024-01-26T07:12:36.846Z	Georeferencing Quick Reference Guide. 2020		
 18	1972	Synbranchus madeirae	Rosen & Rumney 1972	valid	Synbranchus madeirae	Bolivia			"Beni; Reyes, Rio Beni (14° 18' S, 670 23' W);"	"Río Beni, Beni, Bolivia, 14°18'S, 67°23'W"	-14.297794	-67.335393	(WGS84) World Geodetic System 1984	2215	0.0000001	Pascal I. Hablützel	2024-01-28T16:33:25.950Z	Georeferencing Quick Reference Guide. 2020		
 109	1973	Tyttobrycon dorsimaculatus	Géry 1973	valid	Tyttobrycon dorsimaculatus	Bolivia				"Río Chaparé, tributary of Río Mamoré, lower Todos Santos, central Bolivia, about 16°45'S, 65°07'W"										
