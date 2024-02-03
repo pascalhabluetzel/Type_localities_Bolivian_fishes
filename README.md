@@ -74,6 +74,8 @@ The río Popoi is the type locality of several fish species collected during the
 
 Ivon: White 1922 writes: "made a new base under the hospitable roof of the Suarez Brothers' finca at Rio Ivon" "about a week collecting along the Ivon River in a covered boat". About two weeks were spent at Cachuela Esperanza (White 1922).
 
+There is a map in one of the accounts of members of the expedition (not Pearson) which indicates the location of the Little Rio Negro.
+
 ## 1930's: Carriker expedition (Melbourne A. Carriker)
 
 Todos Santos of the Carriker expedition: from 31 July 1937 - 13. August 1937. Some exploration to the neighbourhood, including crossing the river and following a trail 10 km to the río Chimoré (Carriker 1937). Todos Santos is different from Todos Santos viejo. Boca Chaparé is two days from Todos Santos. At Boca de Chaparé from 16 - 31 of August 1937. Several trips to the nearby location, including an oxbow lake 2 miles by boat and 1.5 miles by foot up the río Chimoré. Fish were wrapped on the 25th by Mike. Entry for August 28: "we went seining in river for fish, in the shallow around the big sand bars at mouth of river. Got quite a few species different from Todos Santos". 7 days of travel from Boca de Chapare to Todos Santos. Again in Todos Santos from 7-12 September.
