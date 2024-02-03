@@ -62,9 +62,11 @@ Trichomycterus barbouri: Eigenmann (1911b) notes: "The specimens were obtained b
 
 The type of _Xenocara montana_ Regan 1904 were collected by John William Evans in Tumupasa (misspelled as Tumupara in the first description of the species). Memebers of the expedition spent several weeks in Tumupasa in December 1901 and again in January 1902 (Evans 1903).
 
-## 1910's: Fassl
+## 1910's: Anton Hermann Fassl; José Steinbach
 
 Steindachner (1915b) notes that the types of Pygidium fassli were collected by Fassl. Xenocara boliviana was collected at the same locality, presumably also by Fassl (unclear which one of the brothers, both collected at the río Songo (Fassl 1920 part II)). Anton Hermann Fassl was in Bolivia in 1912-1913 together with his brother Eduard Fassl, who continued collections until the start of the first world war (Taut 1923). A.H. Fassl spent 9 months at the río Songo in a valley without human settlements (Fassl 1920 part II). He was there with his brother Eduard, meaning that collections likely have happened in 1912-1914. A site where Fassl brothers collected Lepidoptera for two years was above the río Songo at 1200 m altitude (Fassl 1920 part III). The río Zongo (in contemporary province of Murillo) merges with the río Coroico at Alcoche.
+
+Griffin (1916) writes: "collected by Mr. José Steinbach in the Provincia del Sara, Bolivia, and most of them bear the label Santa Cruz de la Sierra" and "The collections sent in by Señor Don José Steinbach were all taken in the Department of Santa Cruz de la Sierra, Provincia del Sara, Bolivia, except a small part of his sendings, which are labelled as from Puerto Suarez, Bolivia".
 
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
@@ -119,6 +121,8 @@ Dirksen L & De la Riva (1999) The lizards and amphisbaenians of Bolivia (Reptili
 
 Duellman WE & Köhler J (2005) New specie of marupial frog (Hylidae: Hemiphractinae: Gastrotheca) from the Yungas of Bolivia. Journal of Herpetology 39(1):91-100.
 
+Eigenmann CH (1917) Pimelodella and Typhlobagrus. Memoirs of the Carnegie Museum 7(4):229-257.
+
 Ellis MM (1913) The gymnotid eels of tropical America. Memoirs of the Carnegie Museum v. 6 (no. 3): 109-195, Pls. 15-23.
 
 Evans JW (1903) Expedition to Caupolican Bolivia, 1901-1902. The Geographical Journal 22(6):601-622.
@@ -126,6 +130,8 @@ Evans JW (1903) Expedition to Caupolican Bolivia, 1901-1902. The Geographical Jo
 Fassl AH (1920) Meine Bolivia-Reise (Fortsetzung). Entomologische Rundschau 37(11):41-43.
 
 Fassl AH (1920) Meine Bolivia-Reise. III. Die gemässigte Zone bei Coroico (Fortsetzung). Entomologische Rundschau 37(11):34-35.
+
+Griffin LE (1916) A catalog of the Ophidia from South America at present (June, 1916) contained in the Carnegie Museum with descriptions of some new species. Memoirs of the Carnegie Museum 7(3):163-227.
 
 Jiménez-Ferbans L, Reyes-Castillo, P and Schuster JC (2019) The Passalidae (Coleoptera, Scarabaeoidea) from Bolivia, with the descriptions of three new species. Zookeys 2019(882):51-85.
 
