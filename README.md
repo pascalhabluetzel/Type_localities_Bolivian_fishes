@@ -22,7 +22,9 @@ The species described from Bolivia by Castelnau (1855b) were collected during th
 
 Curimatus leuciscus boliviae Eigenmann & Ogle 1907, Elopomorphus jordanii Gill 1878, Psectrogaster auratus Gill 1896; Eigenmann & Ogle (1907) give collection year (or year added to the collection) as 1852. Vari and Howe (1991) mention that all three specimen have a note in the collection ledgers stating they are from "Mamora R. Bolivia" (i.e. presumably from the río Mamoré).
 
-## 1870's: James Orton
+## 1870's: James Orton; Alphons Stübel
+
+Astroblepus stuebeli Wandolleck 1916 was collected by Alphons Stübel in Lake Titicaca (Wandolleck 1916). Stübel visited the area only shortly between October and December 1876 (Stübel 1890) and does not mention any specific locations. He came from the Peruvian town of Tacna and entered Bolivia at Tacora (now Chile). He left the highlands via the valley of the río de la Paz and there are no indications that he made excursions to Peru (Stübel 1890). His collection of A. stuebeli have likely been made on the Bolivian side of Lake Titicaca.
 
 ## 1890's: Luigi Balzan; Gustav Garlepp; Alfredo Borelli
 
@@ -153,6 +155,8 @@ Staudinger O (1892) Neue Papilio-Formen aus Südamerika. Deutsche Entomologische
 Steindachner F (1892) Über einige neue und seltene Fischarten aus der ichthyologischen Sammlung des K. K. Naturhistorischen Hofmuseums. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Classe. v. 59 (1. Abth.): 357-384, Pls. 1-6.
 
 Steindachner F (1892) Über zwei noch unbeschrieben Nototrema-Arten aus Ecuador und Bolivia..........
+
+Stübel A (1890) Lepidopteren. Gesammelt auf einer Reise durch Colombia, Ecuador, Perú, Brasilien, Argentinien und Bolivien in den Jahren 1868-1877. Verlag von A. Asher & Co., Berlin. 182 pp.
 
 Taut K (1923) A. H. Fassl †.  Entomologische Zeitschrift mit Fauna exotica 36(20-21):59-60.
 
