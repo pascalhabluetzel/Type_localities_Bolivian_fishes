@@ -45,14 +45,21 @@ Station 24: "un peu nord de" "l'entrée du détroit séparant la pointe de Carra
 Station 29: Chililaya, profondeur 2.55 mètres (today Puerto Pérez, Bolivia) \
 Station 124: golfe de Puno, profondeur 5.00 mètres (Peru)
 
-Additional information from Eigenmann (1911a): Creagrutus beni: Swamp back of Villa Bella; Phenacogaster: Swamp back of Villa Bella \
+Additional information from Eigenmann (1911a): Creagrutus beni: Villa Bella, Bolivia, Rio Beni, into Rio Madeira OR Swamp back of Villa Bella; Phenacogaster: Villa Bella, Bolivia, Rio Beni, into Rio Madeira OR Swamp back of Villa Bella \
 Stethaprion crenatum: San Joaquin, Bolivia. Lake one mile west of town (no collection number given in first description by Eigenmann (1916), but collection date could be matched (4 September 1909).
 Entomocorus benjamini: San Joaquin, río Machupo (match could be made by collection date (5 September 1909).
 Ageneiosus madeirensis: San Joaquin, río Machupo (match could be made by collection date (6 September 1909).
+Platysilurus barbatus: São Antonio de Rio Madeira. Rio Madeira near São Antonio (match could be made by collection date (3 November 1909).
+Gymnorhamphichthys hypostomus: no collection date given, unclear which water body at San Joaquín. However, Ellis 1913 notes September 5 as collection date of the holotype, which would mean that it had been collected in the río Machupo.
+Cheirodon madeirae: San Joaquín, Bolivia. Lake one mile west of town (match could be made by collection date (4 September 1909).
 
 Trichomycterus barbouri: Eigenmann (1911b) notes: "The specimens were obtained by Mr. Thomas Barbour at La Paz, Bolivia, from a person who had been prospecting along the Beni river."
 
 The type of _Xenocara montana_ Regan 1904 were collected by John William Evans in Tumupasa (misspelled as Tumupara in the first description of the species). Memebers of the expedition spent several weeks in Tumupasa in December 1901 and again in January 1902 (Evans 1903).
+
+## 1910's: Fassl
+
+Steindachner (1915b) notes that the types of Pygidium fassli were collected by Fassl. Xenocara boliviana was collected at the same locality, presumably also by Fassl (unclear which one of the brothers, both collected at the río Songo (Fassl 1920 part II)). Anton Hermann Fassl was in Bolivia in 1912-1913 together with his brother Eduard Fassl, who continued collections until the start of the first world war (Taut 1923). A.H. Fassl spent 9 months at the río Songo in a valley without human settlements (Fassl 1920 part II). He was there with his brother Eduard, meaning that collections likely have happened in 1912-1914. A site where Fassl brothers collected Lepidoptera for two years was above the río Songo at 1200 m altitude (Fassl 1920 part III). The río Zongo (in contemporary province of Murillo) merges with the río Coroico at Alcoche.
 
 ## 1920's: Mulford expedition (Nathan E. Pearson)
 
@@ -107,7 +114,15 @@ Dirksen L & De la Riva (1999) The lizards and amphisbaenians of Bolivia (Reptili
 
 Duellman WE & Köhler J (2005) New specie of marupial frog (Hylidae: Hemiphractinae: Gastrotheca) from the Yungas of Bolivia. Journal of Herpetology 39(1):91-100.
 
+Ellis MM (1913) The gymnotid eels of tropical America. Memoirs of the Carnegie Museum v. 6 (no. 3): 109-195, Pls. 15-23.
+
 Evans JW (1903) Expedition to Caupolican Bolivia, 1901-1902. The Geographical Journal 22(6):601-622.
+
+Fassl AH (1920) Meine Bolivia-Reise (Fortsetzung). Entomologische Rundschau 37(11):41-43.
+
+Fassl AH (1920) Meine Bolivia-Reise. III. Die gemässigte Zone bei Coroico (Fortsetzung). Entomologische Rundschau 37(11):34-35.
+
+Jiménez-Ferbans L, Reyes-Castillo, P and Schuster JC (2019) The Passalidae (Coleoptera, Scarabaeoidea) from Bolivia, with the descriptions of three new species. Zookeys 2019(882):51-85.
 
 Koerber S & Terán GE (2021) Viaggio del Dr. Alfredo Borelli nel Chaco Boliviano e nella Repubblica Argentina. XIX. Localities of Fishes. Historia Natural (Tercera Serie) 11(1):135-147.
 
@@ -138,6 +153,8 @@ Staudinger O (1892) Neue Papilio-Formen aus Südamerika. Deutsche Entomologische
 Steindachner F (1892) Über einige neue und seltene Fischarten aus der ichthyologischen Sammlung des K. K. Naturhistorischen Hofmuseums. Denkschriften der Kaiserlichen Akademie der Wissenschaften in Wien, Mathematisch-Naturwissenschaftliche Classe. v. 59 (1. Abth.): 357-384, Pls. 1-6.
 
 Steindachner F (1892) Über zwei noch unbeschrieben Nototrema-Arten aus Ecuador und Bolivia..........
+
+Taut K (1923) A. H. Fassl †.  Entomologische Zeitschrift mit Fauna exotica 36(20-21):59-60.
 
 Valenciennes A (1839)
 
