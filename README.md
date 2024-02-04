@@ -10,4 +10,4 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 
 # Results
 
-Preliminary results can be found in [this document]([https://pages.github.com/](https://docs.google.com/document/d/1bEOmlrIXwTE1OGZF_5ehSbqotfYKioIeofBjuCeSwV0/edit)https://docs.google.com/document/d/1bEOmlrIXwTE1OGZF_5ehSbqotfYKioIeofBjuCeSwV0/edit).
+Preliminary results can be found in [this document](https://docs.google.com/document/d/1bEOmlrIXwTE1OGZF_5ehSbqotfYKioIeofBjuCeSwV0/edit).
