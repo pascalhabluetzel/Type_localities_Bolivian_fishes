@@ -11,3 +11,5 @@ I consider all nominal species (i.e. including synonymized names). For georefere
 # Results
 
 Preliminary results can be found in [this document](https://docs.google.com/document/d/1bEOmlrIXwTE1OGZF_5ehSbqotfYKioIeofBjuCeSwV0/edit).
+
+![Map of type localities.](https://github.com/pascalhabluetzel/Type_localities_Bolivian_fishes/blob/main/figures/map.jpg)
